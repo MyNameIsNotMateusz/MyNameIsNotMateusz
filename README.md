@@ -12,9 +12,13 @@ Hi! I'm Mateusz, a passionate programmer from Wrocław, Poland. Programming brin
 
 <img src="https://github.com/MyNameIsNotMateusz/MyNameIsNotMateusz/blob/main/Task-Tracker-App.gif" width="500" />
 
+## Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisnotmateusz&show_icons=true&theme=radical)
+
+
 - 🔭 I’m currently working on Improving skills in react. 
 - 📫 How to reach me: codebymateusz@gmail.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MyNameIsNotMateusz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mateusz-otorowski-28721b278//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mateusz.otorowski/)  
 
