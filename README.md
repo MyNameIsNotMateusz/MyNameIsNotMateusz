@@ -10,6 +10,12 @@ Hi! I'm Mateusz, a passionate programmer from Wrocław, Poland. Programming brin
 
 <img src="https://github.com/MyNameIsNotMateusz/New-Tasks-React/blob/main/public/New-Tasks-React.gif" width="500" />
 
+<img src="https://github.com/MyNameIsNotMateusz/MyNameIsNotMateusz/blob/main/Currency-Conventer-React.gif" width="500" />
+
+<img src="https://github.com/MyNameIsNotMateusz/MyNameIsNotMateusz/blob/main/The-Weather-App1.2.gif" width="500" />
+
+<img src="https://github.com/MyNameIsNotMateusz/MyNameIsNotMateusz/blob/main/Task-Tracker-App.gif" width="500" />
+
 - 🔭 I’m currently working on Improving skills in react. 
 - 📫 How to reach me: codebymateusz@gmail.com 
 
