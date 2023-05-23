@@ -1,13 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Mateusz Otorowski
+Hi! I'm Mateusz, a passionate programmer from Wrocław, Poland. Programming brings me joy and fulfillment, especially Frontend development. JavaScript is my trusted companion for crafting intuitive user experiences. I love embracing challenges and learning new concepts. My next adventure? Relocating to sunny Spain after learning Spanish for over a year. Let's connect and create extraordinary things together! 🌟🤝🚀
 
-👋 Hi there! I'm Mateusz, a passionate programmer residing in Wrocław, Poland. Programming has become my true calling, and it brings me an incredible sense of joy and fulfillment. 💻🎉
+## Skills
 
-I have a particular fondness for Frontend development, where I can let my creativity flourish and bring designs to life. JavaScript is my trusted companion in this exciting journey of coding and crafting intuitive user experiences. 🌈🚀
+* ⚛️ React
+* 📱 HTML, CSS, JS
 
-With a strong work ethic and a thirst for knowledge, I am always open to embracing new challenges and exploring innovative concepts. I thrive on the thrill of learning and pushing boundaries. 🌍💪
+## Examples of work
 
-But here's a fun twist: I have a grand plan to relocate to sunny Spain! 🌞 For over a year now, I've been dedicatedly learning the beautiful language of Spanish, eagerly anticipating my future adventure. ¡Olé! 💃🔆
+- 🔭 I’m currently working on Improving skills in react. 
+- 📫 How to reach me: codebymateusz@gmail.com 
 
-Let's connect and embark on remarkable endeavors together! Join me in creating extraordinary things that make the world a better place. 🌟🤝🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisnotmateusz)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MyNameIsNotMateusz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mateusz-otorowski-28721b278//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mateusz.otorowski/)  
+
